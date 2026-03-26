@@ -22,6 +22,10 @@ label {
 	display: inline-block;
 }
 
+#formcol1 li {
+	list-style: none;
+}
+
 
 /* end of form css */
 	
