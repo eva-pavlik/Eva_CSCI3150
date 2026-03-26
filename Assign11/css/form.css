@@ -25,6 +25,7 @@ label {
 #formcol1 li label {
     text-align:right;
 }
+
 #formcol1 li {
 	list-style:none;
 }
@@ -32,6 +33,10 @@ label {
 .required {
 	color: red;
 	font-weight: bold;
+}
+
+#formcol1 li label {
+    text-align:right;
 }
 
 select:focus, select:active, input:focus, input:active, input:focus + label, 
