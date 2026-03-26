@@ -9,7 +9,7 @@
 	margin-left:4%;
 }
 
-div#formcol1 li {
+#formcol1 li {
 	float:left;	
 	width: 100%;
 	list-style: none;
