@@ -20,6 +20,7 @@ label {
 	margin-right: .5em;
 	width: 6.3em;
 	display: inline-block;
+	text-align: right;
 }
 
 #formcol1 li {
