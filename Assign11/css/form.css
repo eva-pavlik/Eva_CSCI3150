@@ -9,10 +9,9 @@
 	margin-left:4%;
 }
 
-div #formcol1 li {
+div #formcol1 {
 	float:left;	
 	width: 100%;
-	list-style: none;
 }
 
 /*new additions*/
@@ -23,6 +22,8 @@ label {
 	display: inline-block;
 }
 
-
+#formcol1 li {
+	list-style:none;
+}
 /* end of form css */
 	
